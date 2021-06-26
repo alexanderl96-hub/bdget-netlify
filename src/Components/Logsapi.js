@@ -61,3 +61,4 @@ const API_BASE = apiURL()
         
     )
 }
+export default withRouter(Logsapi)
